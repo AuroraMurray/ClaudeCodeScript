@@ -1,1 +1,1 @@
-# ClaudeCodeScript
+# ClaudeCode安装脚本
